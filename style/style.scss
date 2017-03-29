@@ -1,0 +1,50 @@
+$main-color: #00FF00;
+$almost-black: #101010;
+
+$space-mono: 'Space Mono', monospace;
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+}
+
+.site-header {
+  background-color: $almost-black;
+  border-bottom: 2px solid $main-color;
+  padding: 8px;
+}
+
+.logo {
+  max-width: 100%;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-link {
+  color: $main-color;
+  font-family: $space-mono;
+  font-size: 18px;
+  text-decoration: none;
+  margin: 0 8px;
+  transition: all 0.2s;
+}
+
+.nav-link:hover {
+  text-shadow: 0 0 8px $main-color;
+}
+
+@media (min-width: 801px) {
+  .nav {
+    margin-left: 128px;
+  }
+  .nav-link {
+    margin: 0 16px;
+  }
+}
