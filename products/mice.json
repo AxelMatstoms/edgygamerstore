@@ -1,0 +1,25 @@
+[{
+    "id": "glaive_rgb",
+    "thumb": "media/glaive.png",
+    "name": "Corsair Glaive RGB",
+    "price": "79"
+  },
+  {
+    "id": "g900",
+    "thumb": "media/g900.png",
+    "name": "Logitech G900 Chaos Spectrum",
+    "price": "189"
+  },
+  {
+    "id": "m65",
+    "thumb": "media/m65.png",
+    "name": "Corsair M65 PRO RGB",
+    "price": "59"
+  },
+  {
+    "id": "diamondback",
+    "thumb": "media/diamondback.png",
+    "name": "Razer Diamondback",
+    "price": "99"
+  }
+]

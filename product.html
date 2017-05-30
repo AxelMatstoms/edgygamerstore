@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width">
   <link href="style/style.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto|Space+Mono:400,700" rel="stylesheet">
-  <!--<script src="js/products.js" defer></script>-->
+  <script src="js/utils.js" defer></script>
+  <script src="js/product.js" defer></script>
 </head>
 
 <body>
@@ -18,6 +19,21 @@
       <a href="category.html?c=hp" class="nav-link">Audio</a>
     </nav>
   </header>
+  <div class="product-details-container">
+    <main class="product-details">
+      <h2 class="product-details-name" id="productName"></h2>
+      <h3 class="product-details-brand" id="productBrand"></h3>
+      <div class="product-details-pic-container">
+        <div class="product-details-pic" id="productPic"></div>
+      </div>
+      <h3 class="product-details-subhead" id="productSlogan"></h3>
+      <p class="product-details-description" id="productDescription">
+      </p>
+      <h3 class="product-details-subhead">Specs:</h3>
+      <ul class="product-details-spec-list" id="productSpecs">
+      </ul>
+    </main>
+  </div>
 </body>
 
 </html>

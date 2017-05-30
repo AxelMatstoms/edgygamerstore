@@ -1,0 +1,16 @@
+{
+   "image": "media/g910.png",
+   "brand": "Logitech",
+   "name": "G910 Orion Spectrum",
+   "price": "209",
+   "slogan": "Engineered to compete",
+   "description": "Logitech exclusive Romer-G™ mechanical switches give you incredible responsiveness, with a key actuation point up to 25 percent shorter. It’s faster than standard mechanical switches. Faster actuation means faster response for the edge in battles where every millisecond matters. Use Logitech Gaming software to your keyboard lighting effects. Mark keys by color to keep track of spells and game commands. Each key’s backlight can be customized from a palette of 16.8 million colors. The key letters are entirely illuminated for a beautiful, evenly-lit glow.",
+   "specs": {
+     "Weight": "1.50kg",
+     "Key Switches": "Romer-G",
+     "Keyboard Backlighting": "RGB LED",
+     "Dimensions": "505mm x 210mm x 34.3mm",
+     "Keyboard Size": "Standard",
+     "Wrist Rest": "Yes"
+   }
+ }

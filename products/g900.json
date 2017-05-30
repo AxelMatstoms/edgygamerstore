@@ -1,0 +1,16 @@
+{
+   "image": "media/g900.png",
+   "brand": "Logitech",
+   "name": "G900 Chaos Spectrum",
+   "price": "189",
+   "slogan": "Intense action",
+   "description": "Chaos Spectrum comes equipped with the PMW3366 optical sensor — widely regarded as the best gaming mouse sensor on the market. PMW3366 has zero smoothing, filtering or acceleration across the entire DPI range (200-12,000DPI), delivering exceptional tracking accuracy and consistent responsiveness at any speed. For even better accuracy and speed, use surface tuning in Logitech Gaming Software to tune the sensor to your playing surface. Every component of Chaos Spectrum has been optimized to reduce weight while maintaining stability. Each element of the construction was analyzed and adjusted to remove milligrams wherever possible, from thin wall molding to a hollow “spoked” hyperscroll wheel design. The result is a wireless mouse that weighs in at only 107g, maximizing comfort over extended periods of use and delivering quicker response to motion. ",
+   "specs": {
+     "DPI": "200 – 12,000 dpi",
+     "Sensor Type": "Optical",
+     "Mouse Backlighting": "Yes, RGB",
+     "Cable": "1.83m",
+     "Weight": "107g",
+     "Dimensions": "130mm x 67mm x 40mm"
+   }
+ }

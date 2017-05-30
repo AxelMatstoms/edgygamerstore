@@ -1,0 +1,16 @@
+{
+   "image": "media/glaive.png",
+   "brand": "Corsair",
+   "name": "GLAIVE RGB",
+   "price": "79",
+   "slogan": "Performance in the palm of your hand",
+   "description": "CORSAIR GLAIVE RGB was engineered for unrivaled performance and unmatched comfort. Its contoured shape ensures pure comfort, hour after hour of game play. Customize for the way you play with interchangeable thumb grips, and experience the control of a mouse that is made for your hand.",
+   "specs": {
+     "DPI": "100 DPI - 16000 DPI, 1 DPI steps",
+     "Sensor Type": "Optical",
+     "Mouse Backlighting": "3 Zone RGB",
+     "Cable": "1.8m Braided Fiber",
+     "Weight": "122g",
+     "Dimensions": "125.8mm x 91.5mm x 44.6mm"
+   }
+ }

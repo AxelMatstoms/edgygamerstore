@@ -1,0 +1,26 @@
+[
+  {
+    "id": "void",
+    "thumb": "media/void.png",
+    "name": "Corsair VOID RGB",
+    "price": "99"
+  },
+  {
+    "id": "manowar",
+    "thumb": "media/manowar.png",
+    "name": "Razer ManO'War 7.1",
+    "price": "119"
+  },
+  {
+    "id": "g933",
+    "thumb": "media/g933.png",
+    "name": "Logitech G933 Artemis Spectrum",
+    "price": "249"
+  },
+  {
+    "id": "cloud2",
+    "thumb": "media/cloud2.png",
+    "name": "HyperX Cloud 2",
+    "price": "89"
+  }
+]

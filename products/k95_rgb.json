@@ -1,0 +1,16 @@
+{
+   "image": "media/k95.png",
+   "brand": "Corsair",
+   "name": "K95 RGB",
+   "price": "189",
+   "slogan": "You wanted it all. Here it is.",
+   "description": "The Corsair Gaming K95 RGB mechanical gaming keyboard begins with the performance of the legendary K95, and adds multicolor per-key backlighting for virtually unlimited customization. Every key is backed with a Cherry MX RGB key switch for precise actuation and superior feel. 122 full key rollover and 100% anti-ghosting ensure accurate gameplay, and the 18 G-keys can hold up to 108 macros for faster gaming.",
+   "specs": {
+     "Weight": "1.39kg",
+     "Key Switches": "Cherry® MX Brown RGB",
+     "Keyboard Backlighting": "RGB LED",
+     "Dimensions": "502mm x 163mm x 24mm",
+     "Keyboard Size": "Extended",
+     "Wrist Rest": "Full length detachable with soft touch finish"
+   }
+ }

@@ -1,0 +1,16 @@
+{
+   "image": "media/razer-bw2.png",
+   "brand": "Razer",
+   "name": "BlackWidow Chroma V2",
+   "price": "169",
+   "slogan": "Feel the difference",
+   "description": "Designed specifically for gaming, Razer Mechanical Switches actuate at an optimal distance, giving you speed and responsiveness like never before. Razer Mechanical Switches have been lauded as the new standard for all mechanical gaming keyboards since their introduction. The Razer BlackWidow Chroma V2 features individually programmable backlit keys with 16.8 million color options, all easily set through Razer Synapse. From preloaded lighting effects for different types of games, to your own custom uniquely programmed palette of colors, you can effortlessly enhance your gaming experience in a way that is unique only to you.",
+   "specs": {
+     "Weight": "1.50kg",
+     "Key Switches": "Razer™ Mechanical Switches with 50g actuation force",
+     "Keyboard Backlighting": "Chroma backlighting with 16.8 million customizable color options",
+     "Dimensions": "475mm x 171mm x 39mm",
+     "Keyboard Size": "Standard",
+     "Wrist Rest": "Ergonomic wrist wrest for extended gaming comfort"
+   }
+ }

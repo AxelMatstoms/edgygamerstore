@@ -1,0 +1,16 @@
+{
+   "image": "media/k70.png",
+   "brand": "Corsair",
+   "name": "K70 RGB Rapidfire",
+   "price": "169",
+   "slogan": "Unbeatable Speed. Legendary Durability.",
+   "description": "To compete at the highest level, you need the fastest mechanical keyboard there is. RAPIDFIRE’s lightning-quick responsiveness and 100% anti-ghosting technology lets you strike with an unmatched combination of speed and precision. And the forged aluminum frame is built to withstand storm after storm of keystrokes, so you’ll always live to fight another day. Corsair Utility Engine (CUE) enables sophisticated macros and dramatic lighting effects. The USB pass-through port is positioned for uninterrupted game play, and a detachable wrist rest keeps you playing for hours.",
+   "specs": {
+     "Weight": "1.20kg",
+     "Key Switches": "Cherry® MX Speed RGB",
+     "Keyboard Backlighting": "RGB LED",
+     "Dimensions": "436mm x 165mm x 38mm",
+     "Keyboard Size": "Standard",
+     "Wrist Rest": "Full length detachable with soft touch finish"
+   }
+ }

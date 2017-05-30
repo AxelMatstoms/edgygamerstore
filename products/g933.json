@@ -1,0 +1,13 @@
+{
+   "image": "media/g933.png",
+   "brand": "Logitech",
+   "name": "G933 Artemis Spectrum",
+   "price": "249",
+   "slogan": "Complete the experience",
+   "description": "Patent pending advanced Pro-G™ audio drivers are made with hybrid mesh materials that provide the audiophile-like performance gaming fans have been demanding. From your favorite music to expansive game soundtracks, the Pro-G drivers deliver both clean and accurate highs as well as a deep rich bass that you would expect from premium headphones. Experience incredible 7.1 surround sound with Dolby® or DTS Headphone:X Surround Sound,* creating lifelike in-game spatial awareness, allowing you to clearly hear enemies sneaking around or special ability cues.",
+   "specs": {
+     "Frequency Reponse": "20Hz - 20 kHz",
+     "Impedance": "39 Ohms (passive), 5k Ohms (active)",
+     "Drivers": "40mm"
+   }
+ }

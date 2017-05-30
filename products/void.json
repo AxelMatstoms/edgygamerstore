@@ -1,0 +1,13 @@
+{
+   "image": "media/void.png",
+   "brand": "Corsair",
+   "name": "VOID RGB",
+   "price": "99",
+   "slogan": "Comfort. Redefined.",
+   "description": "Enter the VOID—the innovative family of advanced gaming headsets from Corsair. Whether you choose wireless, USB, or stereo powered audio gear, you will always be one step ahead of your enemies. Corsair VOID headsets not only feature great sound but are comfortable enough to stay on your head for long gaming sessions. The fast forward design features light weight, contoured ear cups, and other leading edge tech. Corsair VOID headsets are the ultimate synthesis of performance and comfort.",
+   "specs": {
+     "Frequency Reponse": "20Hz - 20 kHz",
+     "Impedance": "32k Ohms @ 1 kHz",
+     "Drivers": "50mm"
+   }
+ }

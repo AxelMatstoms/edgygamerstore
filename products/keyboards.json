@@ -1,7 +1,7 @@
-[{
+ [{
     "id": "k70_rgb",
     "thumb": "media/k70.png",
-    "name": "Corsair K70 Rapidfire RGB",
+    "name": "Corsair K70 RGB Rapidfire",
     "price": "169"
   },
   {
@@ -9,5 +9,23 @@
     "thumb": "media/cm-pro-s.png",
     "name": "CM MasterKeys Pro S RGB",
     "price": "139"
+  },
+  {
+    "id": "k95_rgb",
+    "thumb": "media/k95.png",
+    "name": "Corsair K95 RGB",
+    "price": "199"
+  },
+  {
+    "id": "g910",
+    "thumb": "media/g910.png",
+    "name": "Logitech G910 Orion Spectrum",
+    "price": "209"
+  },
+  {
+    "id": "bw2",
+    "thumb": "media/razer-bw2.png",
+    "name": "Razer BlackWidow Chroma V2",
+    "price": "169"
   }
 ]

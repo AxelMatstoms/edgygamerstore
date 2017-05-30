@@ -1,0 +1,23 @@
+{
+   "image": "media/diamondback2.png",
+   "brand": "Lakon Spaceways",
+   "name": "Diamondback Explorer",
+   "price": "1,894,760 CR",
+   "slogan": "Great Value Asp Explorer",
+   "description": "The Diamondback Explorer was Lakon Spaceways' response to criticism of the original Diamondback ship class. By extending the ship's frame it allowed greater cargo capacity and so greater mission variety and endurance. It also brought the ship more into line as a smaller brother to the successful Asp line although at much more modest price range. The Explorer model can fulfil the same roles as its companion ship type, but also able to operate as a fast transport and resupply vessel useful for supporting deep space operations in a hostile environment.",
+   "specs": {
+     "Dimensions": "45.0m x 27.3m x 13.6m",
+     "Type": "Combat Explorer",
+     "Top Speed": "251 m/s",
+     "Boost Speed": "328 m/s",
+     "Manoeuvrability": "4",
+     "Shields": "131 MJ",
+     "Armour": "270",
+     "Hull Mass": "260 t",
+     "Cargo Capacity": "12 t",
+     "Fuel Capacity": "32 t",
+     "Jump Range": "16.93 ly",
+     "Landing Pad Size": "Small",
+     "Hardpoints": "4x Utility Mounts, 2x Medium Hardpoints"
+   }
+ }

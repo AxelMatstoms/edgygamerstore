@@ -1,0 +1,13 @@
+{
+   "image": "media/manowar.png",
+   "brand": "Razer",
+   "name": "ManO'War 7.1",
+   "price": "119",
+   "slogan": "Wireless freedom. Gaming fidelity",
+   "description": "Immerse yourself in the game with complete wireless freedom featuring the Razer ManO’War wireless PC gaming headset with gaming grade lag-free 2.4 GHz wireless technology. Hear every detail, every position of your enemy when you have high-performance 50 mm Neodymium magnet drivers and immersive 7.1 surround sound.",
+   "specs": {
+     "Frequency Reponse": "20Hz - 20 kHz",
+     "Impedance": "32k Ohms @ 1 kHz",
+     "Drivers": "50mm"
+   }
+ }

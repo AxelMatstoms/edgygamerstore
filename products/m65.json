@@ -1,0 +1,16 @@
+{
+   "image": "media/m65.png",
+   "brand": "Corsair",
+   "name": "M65 PRO RGB",
+   "price": "59",
+   "slogan": "The technology you need to win. The customization you need to make it your own. The build quality to last.",
+   "description": "The M65 PRO RGB features a 12000 DPI optical sensor that provides pixel-precise tracking and advanced surface calibration support. The aircraft-grade aluminum frame gives it low weight, and at the same time, extremely high durability. Use the advanced weight tuning system to set the center of gravity to match your play style, and harness the power of CUE for advanced button configuration, macro programming, and three-zone RGB backlighting customization.",
+   "specs": {
+     "DPI": "100 dpi - 12000 dpi",
+     "Sensor Type": "Optical",
+     "Mouse Backlighting": "3 Zone RGB",
+     "Cable": "1.8m Braided Fiber",
+     "Weight": "115g",
+     "Dimensions": "118mm x 72mm x 39mm"
+   }
+ }

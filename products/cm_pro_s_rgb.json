@@ -1,0 +1,16 @@
+{
+  "image": "media/cm-pro-s.png",
+  "brand": "Cooler Master",
+  "name": "MasterKeys Pro S RGB",
+  "price": "139",
+  "slogan": "The Best of Both Worlds",
+  "description": "Cooler Master engineers went to work on how to effectively design a keyboard with superior switches and the brightest LED backlighting. We gutted the interior and redefined RGB backlighting by modifying the printed circuit board (PCB) with small cutouts to let the LEDs sit snugly against the switches. That means we’re still able to use genuine Cherry MX switches with their RGB housing AND larger, brighter LEDs",
+  "specs": {
+    "Weight": "1025g",
+    "Key Switches": "Cherry MX Blue (SGK-6040-KKCL1)",
+    "LED Backlight": "Yes, RGB",
+    "Dimensions": "377(L) x 141(W) x 38(H) mm",
+    "Keyboard Size": "TK Hybrid",
+    "Wrist Rest": "No"
+  }
+}

@@ -1,0 +1,13 @@
+{
+   "image": "media/cloud2.png",
+   "brand": "HyperX",
+   "name": "Cloud 2",
+   "price": "89",
+   "slogan": "Award-winning comfort meets legendary durability.",
+   "description": "The versatile Cloud headset family is designed to fit anyone’s gaming needs, no matter their system, play style or personal style. Whether you need virtual 7.1 surround sound for your PC domination station or stereo cans crafted for console life, there’s a Cloud made for you. Each Cloud model is designed to keep you on top of your game longer by providing award-winning comfort through its signature HyperX™ memory foam. 53mm drivers and closed ear cups team up to deliver total audio immersion and pump out precision sound. Built with a durable aluminum frame, every headset in the Cloud line is engineered to tank daily damage and keep coming back for more. Cloud’s detachable noise-cancelling mic transmits loud and clear, so your teamwork will always be on point.",
+   "specs": {
+     "Frequency Reponse": "15Hz - 25kHz",
+     "Impedance": "60 Ohms per system",
+     "Drivers": "53mm"
+   }
+ }
