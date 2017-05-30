@@ -1,9 +1,13 @@
-[
-    {
-	"id": "k70_rgb",
-	"thumb": 
-    },
-    {
-
-    }
+[{
+    "id": "k70_rgb",
+    "thumb": "media/k70.png",
+    "name": "Corsair K70 Rapidfire RGB",
+    "price": "169"
+  },
+  {
+    "id": "cm_pro_s_rgb",
+    "thumb": "media/cm-pro-s.png",
+    "name": "CM MasterKeys Pro S RGB",
+    "price": "139"
+  }
 ]
