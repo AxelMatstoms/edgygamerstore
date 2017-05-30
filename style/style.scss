@@ -125,31 +125,34 @@ body {
   padding: 0;
   border: 1px solid $main-color;
   .product-name {
-    text-decoration: underline;
+      text-decoration: underline;
+      text-shadow: 0 0 3px $main-color;
+  }
+  .product-price {
+      text-shadow: 0 0 3px white;
   }
 }
 
 .product-img {
-    height: 80px;
+    height: 120px;
+}
+
+.product-name, .product-price {
+    font-family: $space-mono;
+    margin-left: 8px;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    transition: all 0.2s;
 }
 
 .product-name {
-  font-family: $space-mono;
   color: $main-color;
-  font-size: 14px;
-  margin-left: 8px;
-  -webkit-margin-before: 0;
-  -webkit-margin-after: 0;
+  font-size: 14px; 
 }
 
 .product-price {
-  font-family: $space-mono;
   color: white;
   font-size: 12px;
-  margin-left: 8px;
-  -webkit-margin-before: 0;
-  -webkit-margin-after: 0;
-  margin-bottom: 8px;
 }
 @media (min-width: 801px) {
   .nav {
