@@ -1,5 +1,7 @@
+let productID;
+
 (() => {
-  const productID = searchToObject(location.search)["id"];
+  productID = searchToObject(location.search)["id"];
   const url = `products/${productID}.json`;
   //console.log(url);
   fetch(url).then(resp => resp.json()).then(json => display(json));
@@ -17,6 +19,9 @@ function display(info) {
   const slogan = id("productSlogan");
   empty(slogan);
   slogan.appendChild(c_txt(info.slogan));
+  const buy = id("productBuy");
+  empty(buy);
+  buy.appendChild(c_txt(`Buy now ${productID != "diamondback" ? "$": ""}${info.price}`)) //Diamondback cost in CR instead of $
   const desc = id("productDescription");
   empty(desc);
   desc.appendChild(c_txt(info.description))
